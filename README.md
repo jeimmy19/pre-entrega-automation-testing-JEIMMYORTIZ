@@ -81,9 +81,19 @@ test_carrito.py::test_verificacion_producto_en_carrito PASSED
 
 🧐 Resultados Obtenidos en las pruebas
 
+
+
 ![Reporte HTML](imagenes/test-reports.png)
 
+
+
+
+
+
+
 ![Reporte consola](imagenes/test-consola.png)
+
+
 
 👨‍💻 Autor
 Autor: Jeimmy Ortiz
