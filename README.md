@@ -83,9 +83,9 @@
   
     🧐 Resultados Obtenidos en las pruebas
 
-        ![Reporte de la consola](imagenes/test-consola.png)
+       <img src="./imagenes/test-reports.png" alt="Reporte HTML" width="50%"/>
 
-        ![Reporte de HTML](imagenes/test-reports.png)
+       <img src="./imagenes/test-consola.png" alt="Reporte consola" width="50%"/>
 
     👨‍💻 Autor
     Autor: Jeimmy Ortiz
@@ -96,4 +96,5 @@
     🏁 Resultado Final
         ✅ Proyecto totalmente automatizado
         ✅ Pruebas independientes y reutilizables
+
         ✅ Compatible con ejecución local y CI/CD en GitHub
