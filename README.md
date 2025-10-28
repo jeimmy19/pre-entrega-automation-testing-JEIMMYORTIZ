@@ -7,19 +7,19 @@ Este proyecto tiene como objetivo principal la automatización de un flujo crít
 📦 Estructura del Proyecto
 
 pre-entrega-automation-testing-JEIMMYORTIZ/
-├── driver/            # Contiene el binario del ChromeDriver (Necesario para Selenium)
+├── driver/                                      # Contiene el binario del ChromeDriver (Necesario para Selenium)
 │   └── chromedriver.exe
-├── imagenes/          # Contiene imágenes de los resultados de las pruebas
+├── imagenes/                                    # Contiene imágenes de los resultados de las pruebas
 │   └── test-consola.png
 │   └── test-reports.png
-├── tests/             # Contiene todos los scripts de pruebas funcionales
-│   ├── test_login.py       # Prueba de login exitoso
-│   ├── test_catalogo.py    # Prueba de catálogo de productos
-│   └── test_carrito.py     # Prueba de flujo del carrito
-├── reports/           # Carpeta para almacenar reportes HTML
-├── conftest.py        # Archivo para fixtures compartidas (configuración del WebDriver)
-├── README.md          # Este archivo descriptivo
-└── requirements.txt   # Dependencias del proyecto
+├── tests/                                        # Contiene todos los scripts de pruebas funcionales
+│   ├── test_login.py                             # Prueba de login exitoso
+│   ├── test_catalogo.py                          # Prueba de catálogo de productos
+│   └── test_carrito.py                           # Prueba de flujo del carrito
+├── reports/                                      # Carpeta para almacenar reportes HTML
+├── conftest.py                                   # Archivo para fixtures compartidas (configuración del WebDriver)
+├── README.md                                     # Este archivo descriptivo
+└── requirements.txt                              # Dependencias del proyecto
 
 ⚙️ Requisitos Previos
 
